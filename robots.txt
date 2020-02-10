@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://todaedighu.nal.one/sitemap.xml
